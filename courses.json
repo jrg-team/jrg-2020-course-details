@@ -1,0 +1,636 @@
+{
+    "system-list": [
+        {
+            "title": "入门1：零基础入门与准备工作",
+            "tags": [
+                "JDK",
+                "IDEA"
+            ],
+            "targets": "消除新人对技术的恐惧，快速上手。在每节课的实战中我们都会用贴近真实生产实际的方式练习，让你在学习中不知不觉积累工作经验",
+            "chapters": [
+                "课程介绍",
+                "手把手安装Java开发环境",
+                "Java术语简介",
+                "Java各版本简介"
+            ]
+        },
+        {
+            "title": "入门2：Git/GitHub/Markdown项目协作入门",
+            "tags": [
+                "Git",
+                "GitHub",
+                "Markdown"
+            ],
+            "targets": "能使用Git进行基本的版本管理;能使用GitHub进行基本的团队协作;能使用Markdown编写文档",
+            "chapters": [
+                "Git/GitHub简介",
+                "注册GitHub与gitclone实战",
+                "Git分支简介与gitcheckout实战",
+                "GitHub仓库与gitcommit/push实战",
+                "Markdown语法简介与实战",
+                "Git与GitHub协作流程入门"
+            ]
+        },
+        {
+            "title": "入门3：Java程序的基本结构",
+            "tags": [
+                "IDEA",
+                "Maven",
+                "Java语言基本单元"
+            ],
+            "targets": "通过精心设计的路线和代码仓库，循序渐进地学习Java程序的基本结构;能够使用IDE进行基本的Java代码的编写",
+            "chapters": [
+                "Java语言的跨平台性与字节码入门",
+                "Java语言的基本单元：类与包",
+                "在Java中引用第三方包",
+                "静态方法与静态成员变量",
+                "对象、构造器与成员变量",
+                "实例方法与空指针异常实战",
+                "对象与引用详解",
+                "方法调用详解"
+            ]
+        },
+        {
+            "title": "入门4：IDEA/Maven/调试器的基本使用",
+            "tags": [
+                "IDEA",
+                "Git",
+                "Maven",
+                "Debugger"
+            ],
+            "targets": "通过手把手的教导，掌握IDEA/Maven/调试器等生产力工具的正确用法，从而在之后的学习中如虎添翼，生产力翻倍，解决问题的能力MAX",
+            "chapters": [
+                "Maven入门与基本使用",
+                "IDEA生产力翻倍的快捷键",
+                "在IDEA中高效使用Git",
+                "IDEA的高级功能",
+                "调试器入门与详解"
+            ]
+        },
+        {
+            "title": "Java语言核心1：Java的数据类型",
+            "tags": [
+                "计算机数据存储的本质",
+                "Java的数据类型与相关操作"
+            ],
+            "targets": "掌握Java运算系统的基石——数据类型;掌握数据类型的转换规则;能够将相关的知识应用到实战中",
+            "chapters": [
+                "数据在计算机中是如何存储的",
+                "基本数据类型",
+                "类型转换与类型提升",
+                "基本数据类型对应的装箱类型",
+                "null与equals实战",
+                "引用数据类型"
+            ]
+        },
+        {
+            "title": "Java语言核心2：Java的运算系统",
+            "tags": [
+                "Java语言的运算系统"
+            ],
+            "targets": "能够得心应手地使用Java的各种运算符，为编写复杂程序奠定坚实基础",
+            "chapters": [
+                "基本运算符",
+                "自增自减运算符",
+                "比较运算符",
+                "逻辑运算符与短路",
+                "三元运算符",
+                "位运算与字符串加法"
+            ]
+        },
+        {
+            "title": "Java语言核心3：Java的控制流",
+            "tags": [
+                "Java语言的各类控制语句",
+                "Debugger"
+            ],
+            "targets": "掌握各类控制语句的使用，为编写复杂程度奠定坚实基础掌握开发神器——调试器的用法",
+            "chapters": [
+                "方法的控制流",
+                "while与do-while循环",
+                "for与for-each循环语句",
+                "break与continue语句",
+                "switch语句"
+            ]
+        },
+        {
+            "title": "Java语言核心4：Java对象系统基础",
+            "tags": [
+                "Java对象的基本原理",
+                "初始化顺序",
+                "生命周期",
+                "JVM初步知识"
+            ],
+            "targets": "掌握Java中对象的基本概念、初始化顺序、生命周期等重要概念，为未来的开发奠定坚实基础;了解JVM的基本知识",
+            "chapters": [
+                "对象的基本概念",
+                "方法的重载",
+                "对象的初始化顺序",
+                "对象的生命周期",
+                "JVM垃圾回收入门"
+            ]
+        },
+        {
+            "title": "Java语言核心5：面向对象——封装与访问控制",
+            "tags": [
+                "面向对象原理",
+                "封装",
+                "静态工厂方法模式",
+                "builder模式"
+            ],
+            "targets": "理解封装的必要性;掌握常用的封装方法;提升开发、维护效率;通过实战了解设计模式",
+            "chapters": [
+                "封装及其必要性",
+                "访问控制符",
+                "getter/setter方法与JavaBean约定",
+                "设计模式实战：静态工厂方法",
+                "类的访问控制符",
+                "设计模式实战：builder模式"
+            ]
+        },
+        {
+            "title": "Java语言核心6：面向对象——继承",
+            "tags": [
+                "面向对象原理",
+                "继承",
+                "模板方法模式",
+                "单例模式"
+            ],
+            "targets": "掌握继承的原理和实战用法;通过复用代码大大提升开发效率",
+            "chapters": [
+                "通过继承来复用代码",
+                "Java的继承体系",
+                "继承的结构与初始化顺序",
+                "实例方法的覆盖",
+                "设计模式实战：模板方法",
+                "final关键字与单例模式"
+            ]
+        },
+        {
+            "title": "Java语言核心7：面向对象——多态",
+            "tags": [
+                "多态",
+                "策略模式",
+                "基本的重构技能"
+            ],
+            "targets": "掌握多态的用法;大大提升程序的灵活性、可扩展性、可维护性",
+            "chapters": [
+                "多态详解",
+                "多态与设计模式实战：策略模式",
+                "多态实战：使用多态简化重构代码"
+            ]
+        },
+        {
+            "title": "Java语言核心8：面向对象——接口与抽象类",
+            "tags": [
+                "接口",
+                "抽象类",
+                "Comparable接口",
+                "内部类"
+            ],
+            "targets": "通过真正上手完成实战题目，掌握并深刻理解Java的面向对象系统设计;能够编写更复杂的程序",
+            "chapters": [
+                "接口与抽象类入门",
+                "接口与抽象类详解与实战",
+                "Comparable接口实战",
+                "内部类详解"
+            ]
+        },
+        {
+            "title": "工程实践1：命令行原理与详解",
+            "tags": [
+                "命令行原理",
+                "命令行操作",
+                "Linux常用命令"
+            ],
+            "targets": "真正掌握命令行操作,为接下来的后端开发工作奠定坚实基础;能够熟练使用常见命令,同时能够使用Java程序与命令行交互",
+            "chapters": [
+                "命令行入门",
+                "工作目录与环境变量",
+                "可执行程序",
+                "输入输出",
+                "Linux常用命令",
+                "命令行实战",
+                "使用命令行编译运行Java程序",
+                "使用Java程序fork子进程"
+            ]
+        },
+        {
+            "title": "工程实践2：Git原理与高级用法",
+            "tags": [
+                "Git"
+            ],
+            "targets": "能够熟练使用Git命令行操作;掌握Git团队协作的基本技能",
+            "chapters": [
+                "Git原理",
+                "Git分支详解",
+                "Git常用命令"
+            ]
+        },
+        {
+            "title": "工程实践3：Java的包管理与Maven实战",
+            "tags": [
+                "Maven",
+                "包管理",
+                "包冲突"
+            ],
+            "targets": "结合之前所学知识，对Java的包管理有醍醐灌顶之感，能够使用Maven自如地进行包管理、包冲突的解决",
+            "chapters": [
+                "Java的包管理",
+                "Maven的包管理",
+                "包冲突与解决实战",
+                "Maven原理与实战"
+            ]
+        }
+    ],
+    "project-list": [
+        {
+            "projectTitile": "Java实战项目1 - 多线程网络爬虫",
+            "targets": "第一次从零开始搭建复杂应用;将各类知识融会贯通;编写、整合各个组件;掌握解决问题、调试程序的能力",
+            "lessons": [
+                {
+                    "title": "Java语言高级1：Collection体系原理与实战",
+                    "tags": [
+                        "Collection",
+                        "List/ArrayList",
+                        "Set/HashSet",
+                        "Map/HashMap"
+                    ],
+                    "targets": "掌握Java的Collection体系的常用类的用法，了解原理，能够自如地在复杂场景下选择正确的工具类，编写复杂程序",
+                    "chapters": [
+                        "List与ArrayList",
+                        "Set与HashSet",
+                        "hashCode约定",
+                        "Map与HashMap",
+                        "HashMap详解"
+                    ]
+                },
+                {
+                    "title": "Java语言高级2：字符串原理与实战",
+                    "tags": [
+                        "String",
+                        "StringBuffer",
+                        "StringBuilder"
+                    ],
+                    "targets": "完全掌握字符串的相关用法，能够得心应手地应对一切有关字符串的需求",
+                    "chapters": [
+                        "字符串详解",
+                        "字符串常见API实战",
+                        "StringBuffer/StringBuilder",
+                        "字符串与编码"
+                    ]
+                },
+                {
+                    "title": "Java语言高级3：Java的异常体系",
+                    "tags": [
+                        "异常",
+                        "try/catch/finally",
+                        "throw/throws"
+                    ],
+                    "targets": "掌握Java的异常体系的原理;能够自如地编写和调试带异常控制的程序",
+                    "chapters": [
+                        "什么是异常",
+                        "Java的异常体系",
+                        "异常的工作流程",
+                        "throw与throws",
+                        "try/catch/finally进行异常控制"
+                    ]
+                },
+                {
+                    "title": "Java语言高级4：Java的IO体系",
+                    "tags": [
+                        "IO",
+                        "InputStream",
+                        "OutputStream",
+                        "File",
+                        "NIO"
+                    ],
+                    "targets": "掌握Java的IO系统的原理;补全在IO方面的知识欠缺;能够得心应手地和各类外部系统通信",
+                    "chapters": [
+                        "什么是IO",
+                        "InputStream/OutputStream详解",
+                        "IOException详解",
+                        "通过File/Path与文件系统交互",
+                        "Java的NIO"
+                    ]
+                },
+                {
+                    "title": "Java语言高级5：多线程初步",
+                    "tags": [
+                        "多线程",
+                        "线程同步",
+                        "JUC工具包",
+                        "线程安全容器",
+                        "线程池"
+                    ],
+                    "targets": "初步了解多线程的原理和应用;能够使用Java的简单同步方法;编写线程安全、高效的程序;了解JUC工具包和线程池的原理",
+                    "chapters": [
+                        "什么是线程",
+                        "Java的线程实战",
+                        "多线程的竞争条件和同步",
+                        "Java的线程同步实战",
+                        "JUC工具包与线程安全容器",
+                        "Java的线程池"
+                    ]
+                },
+                {
+                    "title": "JavaWeb1：HTTP基础",
+                    "tags": [
+                        "计算机网络",
+                        "TCP",
+                        "HTTP"
+                    ],
+                    "targets": "掌握HTTP协议的原理;能够编写基本的和HTTP协议交互的程序;为接下来的Web开发奠定坚实的基础",
+                    "chapters": [
+                        "计算机网络基础入门",
+                        "TCP与HTTP协议入门",
+                        "HTTP的报文与状态码",
+                        "使用Java处理HTTP请求实战",
+                        "使用Java发起HTTP请求实战"
+                    ]
+                },
+                {
+                    "title": "JavaWeb2：HTML/JS/CSS基础",
+                    "tags": [
+                        "HTML",
+                        "JS",
+                        "CSS",
+                        "Web应用"
+                    ],
+                    "targets": "掌握前后端交互的原理;掌握Web应用的工作原理;了解HTML/JS/CSS;能够处理简单的Web应用需求",
+                    "chapters": [
+                        "什么是HTML",
+                        "前后端交互原理详解",
+                        "网页是如何工作的？",
+                        "DOM/HTML标签与属性",
+                        "JS/CSS与CSS选择器",
+                        "使用Java处理HTML实战"
+                    ]
+                },
+                {
+                    "title": "JavaWeb3：Cookie与Session",
+                    "tags": [
+                        "HTTP",
+                        "Cookie",
+                        "Session",
+                        "Web安全"
+                    ],
+                    "targets": "了解HTTP协议是无状态的协议;深入理解Cookie/Session;了解Web安全的原理",
+                    "chapters": [
+                        "HTTP状态维持详解",
+                        "Cookie及其工作原理",
+                        "Session及其原理",
+                        "Cookie/Session实战",
+                        "Web安全入门"
+                    ]
+                }
+            ]
+        },
+        {
+            "projectTitile": "Java精进学习",
+            "lessons": [
+                {
+                    "title": "Java语言高级6：类型与反射",
+                    "tags": [
+                        "反射",
+                        "动态代理",
+                        "代理模式"
+                    ],
+                    "targets": "理解反射的原理;能够看懂反射调用的代码;能够使用反射动态调用",
+                    "chapters": [
+                        "Java的类与Class定义",
+                        "什么是反射",
+                        "反射与动态调用",
+                        "JDK的动态代理",
+                        "反射无处不在：SpringBoot源码分析"
+                    ]
+                },
+                {
+                    "title": "Java语言高级7：范型",
+                    "tags": [
+                        "范型"
+                    ],
+                    "targets": "理解范型原理;能够自如地编写带范型的代码;提高程序的健壮性",
+                    "chapters": [
+                        "范型的历史",
+                        "为什么需要范型",
+                        "范型的擦除",
+                        "范型实战"
+                    ]
+                },
+                {
+                    "title": "Java语言高级8：注解",
+                    "tags": [
+                        "注解"
+                    ],
+                    "targets": "理解注解的原理;能够编写简单的注解和注解处理器",
+                    "chapters": [
+                        "注解详解",
+                        "注解是怎样提升程序的可读性的",
+                        "注解实战：简单的注解处理器"
+                    ]
+                },
+                {
+                    "title": "理论学习1：算法初步",
+                    "tags": [
+                        "二分查找",
+                        "冒泡排序",
+                        "快速排序",
+                        "哈希算法"
+                    ],
+                    "targets": "理解算法的必要性;能够编写简单的算法;能够使用调试器学习算法;理解ArrayList/HashMap原理",
+                    "chapters": [
+                        "算法入门",
+                        "排序算法简介与实战",
+                        "二分查找算法与实战",
+                        "ArrayList源码分析",
+                        "HashMap源码分析"
+                    ]
+                },
+                {
+                    "title": "理论学习2：数据结构初步",
+                    "tags": [
+                        "数组",
+                        "栈",
+                        "链表",
+                        "哈希表",
+                        "二叉树"
+                    ],
+                    "targets": "掌握基本数据结构的使用;能够在实践中选择正确的数据结构;为未来编写高效、正确的代码奠定坚实基础",
+                    "chapters": [
+                        "数据结构入门",
+                        "数组",
+                        "栈",
+                        "链表",
+                        "哈希表",
+                        "二叉树"
+                    ]
+                }
+            ]
+        },
+        {
+            "projectTitile": "Java实战项目2 - SpringBoot开发多人博客平台",
+            "targets": "真正从零开始开发完整的Web应用, 具备完全的开发能力, 具备发布部署的能力; 熟悉前后端通信的流程; 锻炼解决问题的能力",
+            "lessons": [
+                {
+                    "title": "数据库实战1：数据库原理",
+                    "tags": [
+                        "数据库原理",
+                        "MySQL",
+                        "Postgres",
+                        "Docker"
+                    ],
+                    "targets": "了解数据库的原理和基本结构;了解索引的基本原理;能够搭建一个数据库",
+                    "chapters": [
+                        "数据库原理",
+                        "库与表",
+                        "行与列",
+                        "数据库的索引原理",
+                        "数据库实战：搭建第一个数据库"
+                    ]
+                },
+                {
+                    "title": "数据库实战2：SQL语言基础",
+                    "tags": [
+                        "SQL",
+                        "MySQL",
+                        "Postgres"
+                    ],
+                    "targets": "掌握基本SQL语句的用法;为未来编写大型数据库应用打下基础",
+                    "chapters": [
+                        "什么是SQL",
+                        "SQL：select",
+                        "SQL：insert",
+                        "SQL：update",
+                        "SQL：delete"
+                    ]
+                },
+                {
+                    "title": "数据库实战3：SQL语言高级",
+                    "tags": [
+                        "SQL",
+                        "INNER JOIN",
+                        "OUTER JOIN",
+                        "FULL JOIN"
+                    ],
+                    "targets": "能够编写复杂的SQL语句;随心所欲地面对复杂业务的变化",
+                    "chapters": [
+                        "SQL的join",
+                        "INNERJOIN",
+                        "OUTERJOIN",
+                        "FULLJOIN"
+                    ]
+                },
+                {
+                    "title": "数据库实战4：JDBC与ORM",
+                    "tags": [
+                        "JDBC",
+                        "ORM",
+                        "MyBatis"
+                    ],
+                    "targets": "能够使用JDBC连接数据库并完成相关工作;面对数据库的相关工作已经没有任何障碍",
+                    "chapters": [
+                        "JDBC详解",
+                        "什么是ORM",
+                        "为什么需要ORM",
+                        "JDBC与MyBatis实战"
+                    ]
+                },
+                {
+                    "title": "Spring实战1：Spring容器与依赖注入原理",
+                    "tags": [
+                        "Spring容器",
+                        "依赖注入",
+                        "SpringBoot"
+                    ],
+                    "targets": "熟练掌握SpringBoot容器中组件的添加;熟练掌握SpringBoot应用的开发",
+                    "chapters": [
+                        "什么是Spring容器",
+                        "为什么需要依赖注入",
+                        "从零开始一个SpringBoot应用",
+                        "为SpringBoot应用添加各种组件"
+                    ]
+                },
+                {
+                    "title": "Spring实战2：Spring应用开发",
+                    "tags": [
+                        "Spring容器",
+                        "SpringBoot",
+                        "MyBatis",
+                        "Spring安全模块"
+                    ],
+                    "targets": "熟练掌握SpringBoot容器中组件的添加;熟练掌握SpringBoot应用的开发",
+                    "chapters": [
+                        "Spring生态系统简介",
+                        "为SpringBoot应用添加Bean",
+                        "从零开始连接数据库",
+                        "使用SpringBoot组件开发登录模块"
+                    ]
+                },
+                {
+                    "title": "Spring实战3：SpringBootWeb应用开发",
+                    "tags": [
+                        "Spring MVC",
+                        "Cookie/登录模块",
+                        "开发完整Web应用"
+                    ],
+                    "targets": "能够从前到后，从HTTP/Cookie处理到数据库,自行开发完整的SpringBootWeb应用",
+                    "chapters": [
+                        "MVC简介",
+                        "使用SpringBoot处理HTTP请求",
+                        "对SpringBoot应用进行分层",
+                        "逐步完善SpringBootWeb应用"
+                    ]
+                }
+            ]
+        },
+        {
+            "projectTitile": "Java实战项目3 - SpringBoot旺财记账系统",
+            "targets": "具备开发复杂Web应用的能力; 能够整合微信登录这样的第三方接口; 能够处理各类复杂的业务需求",
+            "lessons": [
+                {
+                    "title": "Java语言高级9：Java8函数式编程",
+                    "tags": [
+                        "lambda表达式",
+                        "方法引用",
+                        "函数接口"
+                    ],
+                    "targets": "了解函数式编程的原理;熟练掌握lambda表达式与方法引用;提高工作效率;提高代码质量",
+                    "chapters": [
+                        "什么是函数式编程",
+                        "Java的函数接口",
+                        "lambda表达式",
+                        "方法引用",
+                        "函数式编程实战"
+                    ]
+                },
+                {
+                    "title": "Java语言高级10：Java8Stream",
+                    "tags": [
+                        "Stream"
+                    ],
+                    "targets": "掌握Stream的用法;能够使用Stream重构旧代码的循环;工作效率提升50%",
+                    "chapters": [
+                        "Stream入门",
+                        "Stream的常用API",
+                        "Stream的终结操作与Collector",
+                        "Stream实战"
+                    ]
+                },
+                {
+                    "title": "Java语言高级11：正则表达式",
+                    "tags": [
+                        "正则表达式"
+                    ],
+                    "targets": "掌握正则表达式的基本用法;能够使用正则表达式处理业务需求;提升效率和正确性",
+                    "chapters": [
+                        "正则表达式原理",
+                        "Java的正则表达式实战",
+                        "使用正则表达式进行模式匹配",
+                        "使用正则表达式进行文本处理"
+                    ]
+                }
+            ]
+        }
+    ]
+}

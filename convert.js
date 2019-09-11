@@ -38,7 +38,7 @@ let courseMap = (course) => {
     })
 }
 let projectMap = (project) => {
-    datapayload = `## ${project.projectTitile} \r\n\r\n`
+    datapayload = `### ${project.projectTitile} \r\n\r\n`
     if (project.targets) datapayload += `#### ${project.targets}\r\n\r\n`
     fs.appendFileSync(resultFilePath, datapayload, (err) => {
         if (err) throw err;

@@ -8,7 +8,7 @@
     <tr>
         <td>课程介绍</td>
         <td rowspan="4">消除新人对技术的恐惧，快速上手。在每节课的实战中我们都会用贴近真实生产实际的方式练习，让你在学习中不知不觉积累工作经验</td>
-        <td rowspan="4">JDK<br/>,IDEA<br/></td>
+        <td rowspan="4">JDK<br/>IDEA<br/></td>
     </tr>
     <tr>
         <td>手把手安装Java开发环境</td>
@@ -32,7 +32,7 @@
     <tr>
         <td>Git/GitHub简介</td>
         <td rowspan="6">能使用Git进行基本的版本管理;能使用GitHub进行基本的团队协作;能使用Markdown编写文档</td>
-        <td rowspan="6">Git<br/>,GitHub<br/>,Markdown<br/></td>
+        <td rowspan="6">Git<br/>GitHub<br/>Markdown<br/></td>
     </tr>
     <tr>
         <td>注册GitHub与gitclone实战</td>
@@ -62,7 +62,7 @@
     <tr>
         <td>Java语言的跨平台性与字节码入门</td>
         <td rowspan="8">通过精心设计的路线和代码仓库，循序渐进地学习Java程序的基本结构;能够使用IDE进行基本的Java代码的编写</td>
-        <td rowspan="8">IDEA<br/>,Maven<br/>,Java语言基本单元<br/></td>
+        <td rowspan="8">IDEA<br/>Maven<br/>Java语言基本单元<br/></td>
     </tr>
     <tr>
         <td>Java语言的基本单元：类与包</td>
@@ -98,7 +98,7 @@
     <tr>
         <td>Maven入门与基本使用</td>
         <td rowspan="5">通过手把手的教导，掌握IDEA/Maven/调试器等生产力工具的正确用法，从而在之后的学习中如虎添翼，生产力翻倍，解决问题的能力MAX</td>
-        <td rowspan="5">IDEA<br/>,Git<br/>,Maven<br/>,Debugger<br/></td>
+        <td rowspan="5">IDEA<br/>Git<br/>Maven<br/>Debugger<br/></td>
     </tr>
     <tr>
         <td>IDEA生产力翻倍的快捷键</td>
@@ -125,7 +125,7 @@
     <tr>
         <td>数据在计算机中是如何存储的</td>
         <td rowspan="6">掌握Java运算系统的基石——数据类型;掌握数据类型的转换规则;能够将相关的知识应用到实战中</td>
-        <td rowspan="6">计算机数据存储的本质<br/>,Java的数据类型与相关操作<br/></td>
+        <td rowspan="6">计算机数据存储的本质<br/>Java的数据类型与相关操作<br/></td>
     </tr>
     <tr>
         <td>基本数据类型</td>
@@ -185,7 +185,7 @@
     <tr>
         <td>方法的控制流</td>
         <td rowspan="5">掌握各类控制语句的使用，为编写复杂程度奠定坚实基础掌握开发神器——调试器的用法</td>
-        <td rowspan="5">Java语言的各类控制语句<br/>,Debugger<br/></td>
+        <td rowspan="5">Java语言的各类控制语句<br/>Debugger<br/></td>
     </tr>
     <tr>
         <td>while与do-while循环</td>
@@ -212,7 +212,7 @@
     <tr>
         <td>对象的基本概念</td>
         <td rowspan="5">掌握Java中对象的基本概念、初始化顺序、生命周期等重要概念，为未来的开发奠定坚实基础;了解JVM的基本知识</td>
-        <td rowspan="5">Java对象的基本原理<br/>,初始化顺序<br/>,生命周期<br/>,JVM初步知识<br/></td>
+        <td rowspan="5">Java对象的基本原理<br/>初始化顺序<br/>生命周期<br/>JVM初步知识<br/></td>
     </tr>
     <tr>
         <td>方法的重载</td>
@@ -239,7 +239,7 @@
     <tr>
         <td>封装及其必要性</td>
         <td rowspan="6">理解封装的必要性;掌握常用的封装方法;提升开发、维护效率;通过实战了解设计模式</td>
-        <td rowspan="6">面向对象原理<br/>,封装<br/>,静态工厂方法模式<br/>,builder模式<br/></td>
+        <td rowspan="6">面向对象原理<br/>封装<br/>静态工厂方法模式<br/>builder模式<br/></td>
     </tr>
     <tr>
         <td>访问控制符</td>
@@ -269,7 +269,7 @@
     <tr>
         <td>通过继承来复用代码</td>
         <td rowspan="6">掌握继承的原理和实战用法;通过复用代码大大提升开发效率</td>
-        <td rowspan="6">面向对象原理<br/>,继承<br/>,模板方法模式<br/>,单例模式<br/></td>
+        <td rowspan="6">面向对象原理<br/>继承<br/>模板方法模式<br/>单例模式<br/></td>
     </tr>
     <tr>
         <td>Java的继承体系</td>
@@ -299,7 +299,7 @@
     <tr>
         <td>多态详解</td>
         <td rowspan="3">掌握多态的用法;大大提升程序的灵活性、可扩展性、可维护性</td>
-        <td rowspan="3">多态<br/>,策略模式<br/>,基本的重构技能<br/></td>
+        <td rowspan="3">多态<br/>策略模式<br/>基本的重构技能<br/></td>
     </tr>
     <tr>
         <td>多态与设计模式实战：策略模式</td>
@@ -320,7 +320,7 @@
     <tr>
         <td>接口与抽象类入门</td>
         <td rowspan="4">通过真正上手完成实战题目，掌握并深刻理解Java的面向对象系统设计;能够编写更复杂的程序</td>
-        <td rowspan="4">接口<br/>,抽象类<br/>,Comparable接口<br/>,内部类<br/></td>
+        <td rowspan="4">接口<br/>抽象类<br/>Comparable接口<br/>内部类<br/></td>
     </tr>
     <tr>
         <td>接口与抽象类详解与实战</td>
@@ -344,7 +344,7 @@
     <tr>
         <td>命令行入门</td>
         <td rowspan="8">真正掌握命令行操作,为接下来的后端开发工作奠定坚实基础;能够熟练使用常见命令,同时能够使用Java程序与命令行交互</td>
-        <td rowspan="8">命令行原理<br/>,命令行操作<br/>,Linux常用命令<br/></td>
+        <td rowspan="8">命令行原理<br/>命令行操作<br/>Linux常用命令<br/></td>
     </tr>
     <tr>
         <td>工作目录与环境变量</td>
@@ -401,7 +401,7 @@
     <tr>
         <td>Java的包管理</td>
         <td rowspan="4">结合之前所学知识，对Java的包管理有醍醐灌顶之感，能够使用Maven自如地进行包管理、包冲突的解决</td>
-        <td rowspan="4">Maven<br/>,包管理<br/>,包冲突<br/></td>
+        <td rowspan="4">Maven<br/>包管理<br/>包冲突<br/></td>
     </tr>
     <tr>
         <td>Maven的包管理</td>
@@ -415,7 +415,7 @@
     </tbody>
 </table>
 
-## Java实战项目1 - 多线程网络爬虫 
+### Java实战项目1 - 多线程网络爬虫 
 
 #### 第一次从零开始搭建复杂应用;将各类知识融会贯通;编写、整合各个组件;掌握解决问题、调试程序的能力
 
@@ -429,7 +429,7 @@
     <tr>
         <td>List与ArrayList</td>
         <td rowspan="5">掌握Java的Collection体系的常用类的用法，了解原理，能够自如地在复杂场景下选择正确的工具类，编写复杂程序</td>
-        <td rowspan="5">Collection<br/>,List/ArrayList<br/>,Set/HashSet<br/>,Map/HashMap<br/></td>
+        <td rowspan="5">Collection<br/>List/ArrayList<br/>Set/HashSet<br/>Map/HashMap<br/></td>
     </tr>
     <tr>
         <td>Set与HashSet</td>
@@ -456,7 +456,7 @@
     <tr>
         <td>字符串详解</td>
         <td rowspan="4">完全掌握字符串的相关用法，能够得心应手地应对一切有关字符串的需求</td>
-        <td rowspan="4">String<br/>,StringBuffer<br/>,StringBuilder<br/></td>
+        <td rowspan="4">String<br/>StringBuffer<br/>StringBuilder<br/></td>
     </tr>
     <tr>
         <td>字符串常见API实战</td>
@@ -480,7 +480,7 @@
     <tr>
         <td>什么是异常</td>
         <td rowspan="5">掌握Java的异常体系的原理;能够自如地编写和调试带异常控制的程序</td>
-        <td rowspan="5">异常<br/>,try/catch/finally<br/>,throw/throws<br/></td>
+        <td rowspan="5">异常<br/>try/catch/finally<br/>throw/throws<br/></td>
     </tr>
     <tr>
         <td>Java的异常体系</td>
@@ -507,7 +507,7 @@
     <tr>
         <td>什么是IO</td>
         <td rowspan="5">掌握Java的IO系统的原理;补全在IO方面的知识欠缺;能够得心应手地和各类外部系统通信</td>
-        <td rowspan="5">IO<br/>,InputStream<br/>,OutputStream<br/>,File<br/>,NIO<br/></td>
+        <td rowspan="5">IO<br/>InputStream<br/>OutputStream<br/>File<br/>NIO<br/></td>
     </tr>
     <tr>
         <td>InputStream/OutputStream详解</td>
@@ -534,7 +534,7 @@
     <tr>
         <td>什么是线程</td>
         <td rowspan="6">初步了解多线程的原理和应用;能够使用Java的简单同步方法;编写线程安全、高效的程序;了解JUC工具包和线程池的原理</td>
-        <td rowspan="6">多线程<br/>,线程同步<br/>,JUC工具包<br/>,线程安全容器<br/>,线程池<br/></td>
+        <td rowspan="6">多线程<br/>线程同步<br/>JUC工具包<br/>线程安全容器<br/>线程池<br/></td>
     </tr>
     <tr>
         <td>Java的线程实战</td>
@@ -564,7 +564,7 @@
     <tr>
         <td>计算机网络基础入门</td>
         <td rowspan="5">掌握HTTP协议的原理;能够编写基本的和HTTP协议交互的程序;为接下来的Web开发奠定坚实的基础</td>
-        <td rowspan="5">计算机网络<br/>,TCP<br/>,HTTP<br/></td>
+        <td rowspan="5">计算机网络<br/>TCP<br/>HTTP<br/></td>
     </tr>
     <tr>
         <td>TCP与HTTP协议入门</td>
@@ -591,7 +591,7 @@
     <tr>
         <td>什么是HTML</td>
         <td rowspan="6">掌握前后端交互的原理;掌握Web应用的工作原理;了解HTML/JS/CSS;能够处理简单的Web应用需求</td>
-        <td rowspan="6">HTML<br/>,JS<br/>,CSS<br/>,Web应用<br/></td>
+        <td rowspan="6">HTML<br/>JS<br/>CSS<br/>Web应用<br/></td>
     </tr>
     <tr>
         <td>前后端交互原理详解</td>
@@ -621,7 +621,7 @@
     <tr>
         <td>HTTP状态维持详解</td>
         <td rowspan="5">了解HTTP协议是无状态的协议;深入理解Cookie/Session;了解Web安全的原理</td>
-        <td rowspan="5">HTTP<br/>,Cookie<br/>,Session<br/>,Web安全<br/></td>
+        <td rowspan="5">HTTP<br/>Cookie<br/>Session<br/>Web安全<br/></td>
     </tr>
     <tr>
         <td>Cookie及其工作原理</td>
@@ -638,7 +638,7 @@
     </tbody>
 </table>
 
-## Java精进学习 
+### Java精进学习 
 
 <table border=1>
     <thead>
@@ -650,7 +650,7 @@
     <tr>
         <td>Java的类与Class定义</td>
         <td rowspan="5">理解反射的原理;能够看懂反射调用的代码;能够使用反射动态调用</td>
-        <td rowspan="5">反射<br/>,动态代理<br/>,代理模式<br/></td>
+        <td rowspan="5">反射<br/>动态代理<br/>代理模式<br/></td>
     </tr>
     <tr>
         <td>什么是反射</td>
@@ -722,7 +722,7 @@
     <tr>
         <td>算法入门</td>
         <td rowspan="5">理解算法的必要性;能够编写简单的算法;能够使用调试器学习算法;理解ArrayList/HashMap原理</td>
-        <td rowspan="5">二分查找<br/>,冒泡排序<br/>,快速排序<br/>,哈希算法<br/></td>
+        <td rowspan="5">二分查找<br/>冒泡排序<br/>快速排序<br/>哈希算法<br/></td>
     </tr>
     <tr>
         <td>排序算法简介与实战</td>
@@ -749,7 +749,7 @@
     <tr>
         <td>数据结构入门</td>
         <td rowspan="6">掌握基本数据结构的使用;能够在实践中选择正确的数据结构;为未来编写高效、正确的代码奠定坚实基础</td>
-        <td rowspan="6">数组<br/>,栈<br/>,链表<br/>,哈希表<br/>,二叉树<br/></td>
+        <td rowspan="6">数组<br/>栈<br/>链表<br/>哈希表<br/>二叉树<br/></td>
     </tr>
     <tr>
         <td>数组</td>
@@ -769,7 +769,7 @@
     </tbody>
 </table>
 
-## Java实战项目2 - SpringBoot开发多人博客平台 
+### Java实战项目2 - SpringBoot开发多人博客平台 
 
 #### 真正从零开始开发完整的Web应用, 具备完全的开发能力, 具备发布部署的能力; 熟悉前后端通信的流程; 锻炼解决问题的能力
 
@@ -783,7 +783,7 @@
     <tr>
         <td>数据库原理</td>
         <td rowspan="5">了解数据库的原理和基本结构;了解索引的基本原理;能够搭建一个数据库</td>
-        <td rowspan="5">数据库原理<br/>,MySQL<br/>,Postgres<br/>,Docker<br/></td>
+        <td rowspan="5">数据库原理<br/>MySQL<br/>Postgres<br/>Docker<br/></td>
     </tr>
     <tr>
         <td>库与表</td>
@@ -810,7 +810,7 @@
     <tr>
         <td>什么是SQL</td>
         <td rowspan="5">掌握基本SQL语句的用法;为未来编写大型数据库应用打下基础</td>
-        <td rowspan="5">SQL<br/>,MySQL<br/>,Postgres<br/></td>
+        <td rowspan="5">SQL<br/>MySQL<br/>Postgres<br/></td>
     </tr>
     <tr>
         <td>SQL：select</td>
@@ -837,7 +837,7 @@
     <tr>
         <td>SQL的join</td>
         <td rowspan="4">能够编写复杂的SQL语句;随心所欲地面对复杂业务的变化</td>
-        <td rowspan="4">SQL<br/>,INNER JOIN<br/>,OUTER JOIN<br/>,FULL JOIN<br/></td>
+        <td rowspan="4">SQL<br/>INNER JOIN<br/>OUTER JOIN<br/>FULL JOIN<br/></td>
     </tr>
     <tr>
         <td>INNERJOIN</td>
@@ -861,7 +861,7 @@
     <tr>
         <td>JDBC详解</td>
         <td rowspan="4">能够使用JDBC连接数据库并完成相关工作;面对数据库的相关工作已经没有任何障碍</td>
-        <td rowspan="4">JDBC<br/>,ORM<br/>,MyBatis<br/></td>
+        <td rowspan="4">JDBC<br/>ORM<br/>MyBatis<br/></td>
     </tr>
     <tr>
         <td>什么是ORM</td>
@@ -885,7 +885,7 @@
     <tr>
         <td>什么是Spring容器</td>
         <td rowspan="4">熟练掌握SpringBoot容器中组件的添加;熟练掌握SpringBoot应用的开发</td>
-        <td rowspan="4">Spring容器<br/>,依赖注入<br/>,SpringBoot<br/></td>
+        <td rowspan="4">Spring容器<br/>依赖注入<br/>SpringBoot<br/></td>
     </tr>
     <tr>
         <td>为什么需要依赖注入</td>
@@ -909,7 +909,7 @@
     <tr>
         <td>Spring生态系统简介</td>
         <td rowspan="4">熟练掌握SpringBoot容器中组件的添加;熟练掌握SpringBoot应用的开发</td>
-        <td rowspan="4">Spring容器<br/>,SpringBoot<br/>,MyBatis<br/>,Spring安全模块<br/></td>
+        <td rowspan="4">Spring容器<br/>SpringBoot<br/>MyBatis<br/>Spring安全模块<br/></td>
     </tr>
     <tr>
         <td>为SpringBoot应用添加Bean</td>
@@ -933,7 +933,7 @@
     <tr>
         <td>MVC简介</td>
         <td rowspan="4">能够从前到后，从HTTP/Cookie处理到数据库,自行开发完整的SpringBootWeb应用</td>
-        <td rowspan="4">Spring MVC<br/>,Cookie/登录模块<br/>,开发完整Web应用<br/></td>
+        <td rowspan="4">Spring MVC<br/>Cookie/登录模块<br/>开发完整Web应用<br/></td>
     </tr>
     <tr>
         <td>使用SpringBoot处理HTTP请求</td>
@@ -947,7 +947,7 @@
     </tbody>
 </table>
 
-## Java实战项目3 - SpringBoot旺财记账系统 
+### Java实战项目3 - SpringBoot旺财记账系统 
 
 #### 具备开发复杂Web应用的能力; 能够整合微信登录这样的第三方接口; 能够处理各类复杂的业务需求
 
@@ -961,7 +961,7 @@
     <tr>
         <td>什么是函数式编程</td>
         <td rowspan="5">了解函数式编程的原理;熟练掌握lambda表达式与方法引用;提高工作效率;提高代码质量</td>
-        <td rowspan="5">lambda表达式<br/>,方法引用<br/>,函数接口<br/></td>
+        <td rowspan="5">lambda表达式<br/>方法引用<br/>函数接口<br/></td>
     </tr>
     <tr>
         <td>Java的函数接口</td>
@@ -1025,4 +1025,3 @@
     </tr>
     </tbody>
 </table>
-

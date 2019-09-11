@@ -6,10 +6,13 @@ let data = JSON.parse(fs.readFileSync('./courses.json'));
 const resultFilePath = "./result.md"
 
 let courseMap = (course) => {
-    datapayload = `<table>
-    <tr>
-        <td colspan="3">${course.title}</td>
-    </tr>`
+    datapayload = `<table border=1>
+    <thead>
+        <tr>
+            <th colspan="3">${course.title}</th>
+        </tr>
+    </thead>
+    <tbody>`
     course.chapters.forEach((chapter, index) => {
         if (index === 0)
             datapayload += `
@@ -28,7 +31,8 @@ let courseMap = (course) => {
         }
             
     })
-    datapayload += '</table>\r\n\r\n'
+    datapayload += `</tbody>
+</table>\r\n\r\n`
     fs.appendFileSync(resultFilePath, datapayload, (err) => {
         if (err) throw err;
     })

@@ -5,3 +5,7 @@
 - course-src为json目录
 - results为markdown目录
 
+#### 预览链接
+
+- https://jrg-team.github.io/yinghekongjian.com2.0/dist/jirengu/detail
+- https://jrg-team.github.io/yinghekongjian.com2.0/dist/java/detail

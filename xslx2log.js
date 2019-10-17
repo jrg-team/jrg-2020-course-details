@@ -1,9 +1,6 @@
-let path = require('path'); //系统路径模块
-let fs = require('fs'); //文件模块
 let Excel = require('exceljs');
 
-const srcFilePath = "./courses1.xlsx"
-const resultFilePath = "./result.md"
+const srcFilePath = (process.argv[2] && String(process.argv[2])) || "./courses.xlsx"
 
 let workbook = new Excel.Workbook();
 workbook.xlsx.readFile(srcFilePath)

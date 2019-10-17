@@ -1,0 +1,265 @@
+{
+    "system-list": [{
+            "title": "入门1：零基础入门",
+            "targets": "消除新人对技术的恐惧，快速上手、每节课都会通过不太简单的一个小项目、让新人了解真实开发过程",
+            "tags": "HTML、CSS、JS、Node.js、Vue、React、小程序、TypeScript",
+            "chapters": [
+                "课程介绍",
+                "HTML 5 & CSS 3 入门",
+                "JavaScript 入门",
+                "TypeScript 入门",
+                "Node.js 入门",
+                "Electron 入门",
+                "React 入门",
+                "Vue 入门",
+                "小程序入门",
+                "入门总结"
+            ]
+        },
+        {
+            "title": "入门2：git 入门",
+            "targets": " 能使用命令行完成日常操作、能使用 Git 进行版本管理、能使用 GitHub 托管源代码、能部署个人博客站点",
+            "tags": "命令行、Git、GitHub",
+            "chapters": [
+                "命令行的安装与配置",
+                "PATH 与环境变量",
+                "Windows 10 常用快捷键",
+                "文件相关命令",
+                "git 的使用",
+                "GitHub 的使用",
+                "域名购买与设置",
+                "个人博客搭建"
+            ]
+        },
+        {
+            "title": "入门3：HTTP 入门",
+            "targets": "通过自己动手搭建一个服务器，、了解 HTTP，为后面的学习打下基础",
+            "tags": "HTTP、Node.js",
+            "chapters": [
+                "万维网的本质",
+                "请求和响应",
+                "实现一个服务端",
+                "部署到服务器",
+                "HTTP 总结"
+            ]
+        },
+        {
+            "title": "入门4：HTML 全解",
+            "targets": "通过简单的例子、了解 HTML 标签的使用",
+            "tags": "HTML、CSS",
+            "chapters": [
+                "布局类标签的使用",
+                "请求类标签的使用",
+                "表单类标签的使用",
+                "看不见的标签",
+                "HTML 总结"
+            ]
+        },
+        {
+            "title": "入门5：CSS 3 全解",
+            "targets": "完全掌握 CSS 3 的基本概念和原理、并付诸实践",
+            "tags": "盒模型、文档流、层叠上下文BFC、布局、定位、媒体查询",
+            "chapters": [
+                "基本概念",
+                "Flex 布局",
+                "Grid 布局",
+                "绝对定位",
+                "移动端页面原理",
+                "移动端页面实战",
+                "CSS 动画",
+                "画一只皮卡丘",
+                "总结"
+            ]
+        },
+        {
+            "title": "核心1：JavaScript 内核",
+            "targets": "掌握 JS 核心知识、为后续知识打下基础",
+            "tags": "JavaScript、ES6、ES7、ES8、ES9",
+            "chapters": [
+                "JavaScript 语法",
+                "JavaScript 内置对象",
+                "JavaScript 数组",
+                "JavaScript 函数",
+                "JavaScript Class",
+                "JavaScript 对象、原型",
+                "JavaScript 设计模式"
+            ]
+        },
+        {
+            "title": "核心2：算法与数据结构",
+            "targets": "掌握常考的算法和数据结构、为后续知识打下基础",
+            "tags": "算法、数据结构",
+            "chapters": [
+                "函数式思维 v.s 命令式思维",
+                "伪代码 & 流程图",
+                "排序算法（上）",
+                "数据结构",
+                "排序算法（下）"
+            ]
+        },
+        {
+            "title": "核心3：JavaScript 常用 API",
+            "targets": "熟悉前端开发中的常用工具和第三方库、提升代码品味和编程效率",
+            "tags": "BOM / DOM / Canvas / jQuery、Date / LocalStorage / RegExp、Lodash / Underscore ",
+            "chapters": [
+                "BOM API",
+                "DOM API",
+                "Canvas API",
+                "自己实现 jQuery",
+                "Date API",
+                "Storage API",
+                "正则表达式",
+                "Lodash / Underscore API",
+                "URL处理"
+            ]
+        },
+        {
+            "title": "核心3：Node.js 基础",
+            "targets": "通过几个经典的实例、了解 Node.js 的用法、了解 Node.js 后端框架的用法、以及其他后端开发基础知识",
+            "tags": "Node.js / JavaScript / npm、express / koa、Cookie / Session",
+            "chapters": [
+                "npm 介绍",
+                "自制静态服务器",
+                "自制动态服务器",
+                "使用 express",
+                "使用 koa",
+                "Cookie 与 Session",
+                "登录与注册",
+                "部署 Node.js 应用"
+            ]
+        },
+        {
+            "title": "核心4：前后端分离技术方案",
+            "targets": "掌握目前各大互联网公司都在用、的前后端分离技术方案",
+            "tags": "AJAX / JWT / CORS / JSONP、JSON / REST / axios",
+            "chapters": [
+                "AJAX 的原理",
+                "AJAX 的使用",
+                "跨域解决方案",
+                "JWT 鉴权",
+                "RESTful API 规范",
+                "封装 axios"
+            ]
+        },
+        {
+            "title": "核心5：Web性能优化",
+            "targets": "学会如何加速网页展示过程",
+            "tags": "DNS / TCP / CDN / 性能优化、Aliyun OSS",
+            "chapters": [
+                "网络基础知识",
+                "CDN 的使用",
+                "浏览器运行原理",
+                "常见Web性能优化手段"
+            ]
+        },
+        {
+            "title": "框架阶段1：MVC 设计模式",
+            "targets": "了解现代前端框架的基石",
+            "tags": "JavaScript / MVC / 设计模式",
+            "chapters": [
+                "意大利面条代码",
+                "MVC 演进过程",
+                "引入类",
+                "发布订阅/事件系统",
+                "MVC 项目实践",
+                "模板引擎",
+                "虚拟 DOM"
+            ]
+        },
+        {
+            "title": "框架阶段2：函数式编程",
+            "targets": "理解真正的函数式编程",
+            "tags": "Lisp / 函数式",
+            "chapters": [
+                "Lisp 简介",
+                "函数式编程基本概念",
+                "函数式编程实践"
+            ]
+        },
+        {
+            "title": "框架阶段3：webpack",
+            "targets": "精通 webpack",
+            "tags": "webpack",
+            "chapters": [
+                "webpack loader 的使用",
+                "webpack 插件的使用",
+                "自制 loader",
+                "自制插件",
+                "总结"
+            ]
+        },
+        {
+            "title": "框架阶段4：Vue",
+            "targets": "完全掌握 Vue、达到企业用人要求",
+            "tags": "Vue 2 / Vue 3 / vue-cli、Vuex / Vue Router / axois、单元测试 / Vue 应用部署",
+            "chapters": [
+                "Vue 组件（Vue 2.0 和 3.0）",
+                "Vue 组件通信",
+                "Vue 数据响应式",
+                "Vue Router",
+                "Vuex",
+                "Vue 单元测试",
+                "Vue 项目部署",
+                "Vue 项目实战"
+            ]
+        },
+        {
+            "title": "框架阶段5：React",
+            "targets": "完全掌握 React、达到企业用人要求",
+            "tags": "React / Hooks API / create-react-app、React Router / Redux、单元测试 / React 应用部署",
+            "chapters": [
+                "React 类组件",
+                "React 函数式组件",
+                "React 组件通信",
+                "React 单向数据流",
+                "React Router",
+                "Redux",
+                "React 单元测试",
+                "React 项目部署",
+                "React 项目实战"
+            ]
+        },
+        {
+            "title": "框架阶段6：微信小程序",
+            "targets": "完全掌握小程序，达到用人要求",
+            "tags": "小程序",
+            "chapters": [
+                "注册账号",
+                "小程序组件",
+                "小程序项目实战"
+            ]
+        },
+        {
+            "title": "框架阶段7：Flutter 入门",
+            "targets": "拓展视野，了解移动端开发、给简历增加一个大亮点",
+            "tags": "Dart / Flutter",
+            "chapters": [
+                "安装与调试",
+                "Dart 基础",
+                "布局",
+                "表单",
+                "列表",
+                "Tab 切换",
+                "网络请求",
+                "项目实践"
+            ]
+        },
+        {
+            "title": "工作阶段",
+            "targets": "以最佳的简历、最佳的项目和最佳的姿态、打动用人单位",
+            "tags": "简历、面试、笔试、职业规划",
+            "chapters": [
+                "简历内容指导",
+                "在线简历制作",
+                "观看模拟面试",
+                "进行模拟笔试",
+                "面试笔试押题",
+                "职业发展规划",
+                "工资谈判技巧",
+                "离职与入职",
+                "毕业证书"
+            ]
+        }
+    ],
+    "project-list": []
+}

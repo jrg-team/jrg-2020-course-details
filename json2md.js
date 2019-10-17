@@ -1,9 +1,10 @@
-let path = require('path'); //系统路径模块
+#!/usr/bin/env node
+
 let fs = require('fs'); //文件模块
+let srcFilePath = (process.argv[2] && String(process.argv[2])) || "./courses.json"
+let data = JSON.parse(fs.readFileSync(srcFilePath));
 
-let data = JSON.parse(fs.readFileSync('./courses.json'));
-
-const resultFilePath = "./result.md"
+const resultFilePath = `./results/result.md`
 
 let printTags = (tags, separator) => {
     let storeTags = tags

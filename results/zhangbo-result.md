@@ -343,7 +343,7 @@
     <tbody>
     <tr>
         <td>命令行入门</td>
-        <td rowspan="8">真正掌握命令行操作,为接下来的后端开发工作奠定坚实基础;能够熟练使用常见命令,同时能够使用Java程序与命令行交互</td>
+        <td rowspan="8">真正掌握命令行操作为接下来的后端开发工作奠定坚实基础;能够熟练使用常见命令同时能够使用Java程序与命令行交互</td>
         <td rowspan="8">命令行原理<br/>命令行操作<br/>Linux常用命令<br/></td>
     </tr>
     <tr>
@@ -415,9 +415,9 @@
     </tbody>
 </table>
 
-### Java实战项目1 - 多线程网络爬虫 
+#### Java实战项目1 - 多线程网络爬虫 
 
-#### 第一次从零开始搭建复杂应用;将各类知识融会贯通;编写、整合各个组件;掌握解决问题、调试程序的能力
+第一次从零开始搭建复杂应用;将各类知识融会贯通;编写、整合各个组件;掌握解决问题、调试程序的能力
 
 <table border=1>
     <thead>
@@ -638,7 +638,7 @@
     </tbody>
 </table>
 
-### Java精进学习 
+#### Java精进学习 
 
 <table border=1>
     <thead>
@@ -769,9 +769,9 @@
     </tbody>
 </table>
 
-### Java实战项目2 - SpringBoot开发多人博客平台 
+#### Java实战项目2 - SpringBoot开发多人博客平台 
 
-#### 真正从零开始开发完整的Web应用, 具备完全的开发能力, 具备发布部署的能力; 熟悉前后端通信的流程; 锻炼解决问题的能力
+真正从零开始开发完整的Web应用 具备完全的开发能力 具备发布部署的能力; 熟悉前后端通信的流程; 锻炼解决问题的能力
 
 <table border=1>
     <thead>
@@ -932,7 +932,7 @@
     <tbody>
     <tr>
         <td>MVC简介</td>
-        <td rowspan="4">能够从前到后，从HTTP/Cookie处理到数据库,自行开发完整的SpringBootWeb应用</td>
+        <td rowspan="4">能够从前到后，从HTTP/Cookie处理到数据库自行开发完整的SpringBootWeb应用</td>
         <td rowspan="4">Spring MVC<br/>Cookie/登录模块<br/>开发完整Web应用<br/></td>
     </tr>
     <tr>
@@ -947,9 +947,9 @@
     </tbody>
 </table>
 
-### Java实战项目3 - SpringBoot旺财记账系统 
+#### Java实战项目3 - SpringBoot旺财记账系统 
 
-#### 具备开发复杂Web应用的能力; 能够整合微信登录这样的第三方接口; 能够处理各类复杂的业务需求
+具备开发复杂Web应用的能力; 能够整合微信登录这样的第三方接口; 能够处理各类复杂的业务需求
 
 <table border=1>
     <thead>
@@ -1025,3 +1025,4 @@
     </tr>
     </tbody>
 </table>
+
